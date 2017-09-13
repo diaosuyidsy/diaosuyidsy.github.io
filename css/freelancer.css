@@ -67,15 +67,19 @@ hr.star-primary:after {
 .img-centered {
   margin: 0 auto; }
 
+.form-control{
+  padding: 0;
+}
+
 section {
-  padding: 100px 0; }
+  padding: 50px 0; }
   section h2 {
     font-size: 3em;
     margin: 0; }
 
 section.success {
   color: white;
-  background: #18BC9C; }
+  background: #5c9e91; }
 
 @media (max-width: 767px) {
   section {
@@ -163,7 +167,7 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background: #18BC9C; }
+  background: #5c9e91; }
   header.masthead img {
     display: block;
     margin: 0 auto 20px; }
