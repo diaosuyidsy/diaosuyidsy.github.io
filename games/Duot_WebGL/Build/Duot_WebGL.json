@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Duot_WebGL.data.unityweb",
+"asmCodeUrl": "Duot_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Duot_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Duot_WebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

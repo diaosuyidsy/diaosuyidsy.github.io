@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Passage_WebGL.data.unityweb",
+"asmCodeUrl": "Passage_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Passage_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Passage_WebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

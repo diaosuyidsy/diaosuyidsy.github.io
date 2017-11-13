@@ -40,7 +40,7 @@ hr.star-primary {
   border: none;
   border-top: solid 5px; }
 
-hr.star-light:after,
+/*hr.star-light:after,
 hr.star-primary:after {
   font-family: FontAwesome;
   font-size: 2em;
@@ -48,7 +48,7 @@ hr.star-primary:after {
   top: -.8em;
   display: inline-block;
   padding: 0 0.25em;
-  content: '\f005'; }
+  content: '\f005'; }*/
 
 hr.star-light {
   border-color: white; }
